@@ -1,5 +1,7 @@
 NAME : Hari Krishnan S
+
 REG NO : 24006616
+
 EXPERIMENT 2: Control of relay using iot controller
 
 ##  AIM:
